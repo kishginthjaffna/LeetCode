@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kishginthjaffna/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kishginthjaffna/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kishginthjaffna/LeetCode/tree/master/0260-single-number-iii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kishginthjaffna/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishginthjaffna/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kishginthjaffna/LeetCode/tree/master/0013-roman-to-integer) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kishginthjaffna/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kishginthjaffna/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kishginthjaffna/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kishginthjaffna/LeetCode/tree/master/0260-single-number-iii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kishginthjaffna/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
