@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kishginthjaffna/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kishginthjaffna/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kishginthjaffna/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kishginthjaffna/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/kishginthjaffna/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kishginthjaffna/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kishginthjaffna/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/kishginthjaffna/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kishginthjaffna/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kishginthjaffna/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kishginthjaffna/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/kishginthjaffna/LeetCode/tree/master/0338-counting-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kishginthjaffna/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kishginthjaffna/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kishginthjaffna/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kishginthjaffna/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
