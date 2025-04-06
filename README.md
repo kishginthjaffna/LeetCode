@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kishginthjaffna/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/kishginthjaffna/LeetCode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -116,4 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kishginthjaffna/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/kishginthjaffna/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kishginthjaffna/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kishginthjaffna/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
